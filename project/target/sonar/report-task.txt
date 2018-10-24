@@ -1,5 +1,5 @@
 projectKey=m1ice:devops
 serverUrl=http://localhost:9000
 dashboardUrl=http://localhost:9000/dashboard/index/m1ice:devops
-ceTaskId=AWY-_vxDGgbNvhMOL01A
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWY-_vxDGgbNvhMOL01A
+ceTaskId=AWag7QPSgPItm7BY0rtu
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWag7QPSgPItm7BY0rtu
