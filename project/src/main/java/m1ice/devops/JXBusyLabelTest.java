@@ -3,7 +3,6 @@ package m1ice.devops;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
-import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.JButton;
@@ -70,7 +69,8 @@ public class JXBusyLabelTest extends JFrame implements ActionListener {
 	}
 
 	public static void main(String[] args) {
-		new JXBusyLabelTest();
+		JXBusyLabelTest busyLabel = new JXBusyLabelTest();
+		busyLabel.setVisible(true);
 	}
 
 }
